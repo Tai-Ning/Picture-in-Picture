@@ -1,6 +1,7 @@
 #  Picture-in-Picture 
-A floating screen sharing web app using the modern **Picture-in-Picture API**.  
-This project demonstrates how to capture the screen and display it in a small movable window.
+A floating screen sharing demo using the modern **Picture-in-Picture API**.  
+Useful for multitasking — keep a mini screen window while browsing other content.  
+This project demonstrates how to capture the screen and display it in a small movable window using native browser APIs.
 
 👉 **[Live Demo](https://tai-ning.github.io/Picture-in-Picture/)**
 
